@@ -21,6 +21,12 @@ apt-get install openssl libssl-dev
 ```ssh
 apt-get install zlib1g-dev
 ```
+···ssh
+apt-get install gcc
+```
+```ssh
+apt-get install build-essential
+```
 
 ## Make
 ### config
