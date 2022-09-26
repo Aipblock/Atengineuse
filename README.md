@@ -22,10 +22,9 @@ apt-get install openssl libssl-dev
 apt-get install zlib1g-dev
 ```
 
-···ssh
+```ssh
 apt-get install gcc
 ```
-
 ```ssh
 apt-get install build-essential
 ```
