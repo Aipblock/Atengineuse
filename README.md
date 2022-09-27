@@ -45,7 +45,7 @@ ln -s /usr/local/nginx/sbin/nginx /usr/bin/nginx
 ```
 ### nano
 ```ssh
-nano /lib/systemd/system/nginx.service
+vi /lib/systemd/system/nginx.service
 ```
 ```
 [Unit]
